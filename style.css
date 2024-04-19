@@ -21,7 +21,7 @@
     outline: none;
     width: 60px;
     height: 60px;
-    box-shadow: -8px -8px 15px rgba(255,255,255,0.1),5px 5px 15px rgba(0,0,0,0.2)  ;
+    box-shadow: 3px 5px 5px rgba(255, 254, 254, 0.1),5px 5px 15px rgba(0,0,0,0.2)  ;
     background: transparent;
     cursor: pointer;
     color: #fff;
@@ -42,3 +42,4 @@ form .display input{
 form input.equal{
     width: 145px;
 }
+
